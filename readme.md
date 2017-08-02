@@ -6,7 +6,20 @@ I want it to be extremely easy for anyone to ask me questions about anything. Th
 
 Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever.
 
--
+### General Info About Me
+- Developer Advocate at [RapidAPI](https://rapidapi.com)
+- [Major League Hacking](https://mlh.io) Coach
+- Founder of [HackCU](hackcu.org)
+- Photographer & Videography
+- Living in San Francisco, CA. went to school in Boulder, CO. Grew up in Bloomington-Normal, IL.
+- A way I like to describe myself is "Part-time adventurer, full-time hooligan"
+
+### Where to Find Me
+- [Instagram](https://instagram.com/alexwalling19)
+- [Twitter](https://twitter.com/alexwalling)
+- [Website](http://alexwalling.com)
+- [Medium](https://medium.com/alexwalling)
+- [Spotify](https://play.spotify.com/user/alexwalling)
 
 ### Guidelines
 
