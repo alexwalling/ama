@@ -10,8 +10,8 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 - Developer Advocate at [RapidAPI](https://rapidapi.com)
 - [Major League Hacking](https://mlh.io) Coach
 - Founder of [HackCU](hackcu.org)
-- Photographer & Videography
-- Living in San Francisco, CA. went to school in Boulder, CO. Grew up in Bloomington-Normal, IL.
+- Photographer & Videographer as a hobby(check out my [Instagram](https://instagram.com/alexwalling19))
+- Living in San Francisco, CA. Went to College in Boulder, CO. Grew up in Bloomington-Normal, IL.
 - A way I like to describe myself is "Part-time adventurer, full-time hooligan"
 
 ### Where to Find Me
