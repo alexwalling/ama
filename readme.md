@@ -15,12 +15,11 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 - A way I like to describe myself is "Part-time adventurer, full-time hooligan"
 
 ### Where to Find Me
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| https://instagram.com/alexwalling19 | right-aligned | $1600 |
-
-
-[Instagram](https://instagram.com/alexwalling19), [Twitter](https://twitter.com/alexwalling), [Website](http://alexwalling.com), [Medium](https://medium.com/alexwalling), [Spotify](https://play.spotify.com/user/alexwalling)
+- [Instagram](https://instagram.com/alexwalling19): Pictures, videos, and other cool creative stuff.
+- [Twitter](https://twitter.com/alexwalling): Short consise thoughts and ideas that I want to share with everyone.
+- [Website](http://alexwalling.com): Learn more about me, contact me, and more!
+- [Medium](https://medium.com/alexwalling): Blogs, stories, and other written thoughts.
+- [Spotify](https://play.spotify.com/user/alexwalling): Music I'm currently listening to & 🔥 playlists.
 
 ### Guidelines
 
